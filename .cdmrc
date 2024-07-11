@@ -1,2 +1,3 @@
-tabs: ['contracts/Structure.sol']
-terminals: ['yarn install']
+tabs: ["contracts/Structure.sol"]
+terminals: ["bun install"]
+run-button: truffle compile
